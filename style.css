@@ -7,7 +7,7 @@ body {
 
 header {
     display: flex;
-    flex: 1 1 auto;
+    flex: 0 1 auto;
     background-color: rgb(46, 66, 173);
     align-items: center;
     padding-left: 10%;
@@ -34,7 +34,7 @@ ul.toplinks a {
 .myname {
     color: rgb(255, 255, 255);
     font-weight: 900;
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .headerconnector {
@@ -43,12 +43,11 @@ ul.toplinks a {
     background-color: rgb(46, 66, 173);
     justify-content: center;
     align-items: center;
-    padding: 10px;
 }
 
 .headerconnector img {
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
 }
 
 .lsidetext{
@@ -58,7 +57,7 @@ ul.toplinks a {
     color: white;
     padding-left: 10%;
     padding-right: 10%;
-    width: 30%;
+    width: 25%;
 }
 .bigltext {
     font-weight: 500;
