@@ -10,8 +10,8 @@ header {
     flex: 0 1 auto;
     background-color: rgb(46, 66, 173);
     align-items: center;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
 } 
 
 ul.toplinks li {
@@ -135,7 +135,7 @@ footer {
 .FSE {
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 90%;
     height: 80%;
     text-align: center;
     align-items: center;
@@ -155,10 +155,15 @@ footer {
     margin-bottom: 100px;
 }
 
+.line {
+    height: 10px;
+    background-color: rgb(46, 66, 173);
+}
 .quote{
     align-items: center;
     font-style: italic;
     font-size: larger;
+    font-weight: 500;
 }
 
 .qperson {
@@ -172,7 +177,7 @@ font-weight: bold;
     color: white;
     background-color: rgb(46, 66, 173);
     align-items: center;
-    justify-contentnt: center;
+    justify-content: center;
     width: 30%;
     height: 10%;
     padding: 20px;
