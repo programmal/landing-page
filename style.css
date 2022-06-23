@@ -17,6 +17,8 @@ header {
 ul.toplinks li {
     list-style: none;
     display: inline;
+    font-weight: bold;
+    margin: 10px;
 
 }
 
@@ -69,7 +71,7 @@ ul.toplinks a {
     align-items: center;
 }
 .signup{
-    background-color: rgba(63, 109, 179, 0);
+    background-color: rgba(122, 135, 155, 0.541);
     color: white;
     width: 80px;
     padding: 5px;
@@ -126,6 +128,7 @@ footer {
     width: 100px;
     border: 2px solid rgb(46, 66, 173);
     padding: 10px;
+    border-radius: 10px;
 }
 
 .quotecont {
